@@ -148,7 +148,11 @@ Ao criar o projeto usando o comando `dart create -t console cli`, são gerados a
 
 #### Screenshots
 
-![App Screenshot](https://i.imgur.com/kQimm40.png)Na aplicação, removi a opção para que o usuário execute testes, uma vez que o CLI Dart incorpora nativamente testes automatizados, os quais foram conduzidos.
+![App Screenshot](https://i.imgur.com/kQimm40.png)
+
+## Observações
+
+Na aplicação, removi a opção para que o usuário execute testes, uma vez que o CLI Dart incorpora nativamente testes automatizados, os quais foram conduzidos.
 
 É importante notar que, quando a string fornecida representa um número, a entrada é convertida para o tipo `number`.
 
