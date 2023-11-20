@@ -7,4 +7,3 @@ COPY . /technical-challenge-dart-barcelos
 RUN dart pub get
 
 CMD [ "dart", "run" ]
-
